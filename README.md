@@ -2,6 +2,7 @@
 
 This project is a powerful tool designed to extract Personally Identifiable Information (PII) from PDF documents and images, detect sensitive data, and generate visually engaging QR code cards for securely sharing this information. 
 
+![PII Card](pii_card.png)
 ## Key Features
 
 - **PII Extraction**: Automatically detects PII such as Aadhaar details from both PDF files and images.
