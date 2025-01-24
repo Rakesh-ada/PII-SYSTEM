@@ -44,7 +44,7 @@ Follow the steps below to set up and run the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rakesh-ada/PIP-SYSTEM
+   git clone https://github.com/Rakesh-ada/PII-SYSTEM
    cd PII-SYSTEM
    ```
 2. Install the required Python packages:
