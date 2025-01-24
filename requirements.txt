@@ -1,0 +1,6 @@
+presidio-analyzer
+presidio-anonymizer
+PyPDF2
+pytesseract
+Pillow
+
